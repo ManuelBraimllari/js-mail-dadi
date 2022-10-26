@@ -19,15 +19,15 @@ body{
 .player{
     background-color: chartreuse;
     height: 100%;
-    width: 50%;
-    font-size: 50px;
+    width: 33%;
+    font-size: 40px;
 }
 
 .computer{
     background-color: crimson;
     height: 100%;
-    width: 50%;
-    font-size: 50px;
+    width: 33%;
+    font-size: 40px;
 }
 
 button{
