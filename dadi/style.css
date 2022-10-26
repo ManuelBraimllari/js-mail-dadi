@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    margin-top: 200px;
+}
+
+#num-player{
+    display: flex;
+    background-color: aquamarine;
+    justify-content: center;
+}
+
+#num-computer{
+    display: flex;
+    background-color: aquamarine;
+    justify-content: center;
+    font-size: 50px;
+}
+
+.player{
+    background-color: chartreuse;
+    height: 100%;
+    width: 50%;
+    font-size: 50px;
+}
+
+.computer{
+    background-color: crimson;
+    height: 100%;
+    width: 50%;
+    font-size: 50px;
+}
+
+button{
+    border-radius: 50px;
+    width: 10rem;
+    background-color: deeppink;
+    font-size: 50px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+#output{
+    padding-top: 50px;
+    height: 100px;
+    justify-content: center;
+    font-size: 100px;
+}
